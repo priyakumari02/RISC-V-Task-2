@@ -16,7 +16,7 @@ python task2.py
 python -m unittest testing.py
 
 ```
-[Unit Testing] (https://www.freecodecamp.org/news/how-to-write-unit-tests-for-python-functions/)
+[Unit Testing](https://www.freecodecamp.org/news/how-to-write-unit-tests-for-python-functions/)
 
 ### Output
 ![image](https://github.com/priyakumari02/RISC-V-Task-2/assets/77202746/27de62ec-df23-4cd6-b466-ccf8396f2874)
